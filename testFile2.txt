@@ -1,0 +1,5 @@
+if {
+	float dasd = 23.12
+while # > 90
+}
+'asd' + ?
